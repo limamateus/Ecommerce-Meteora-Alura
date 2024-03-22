@@ -21,7 +21,7 @@ const Botao = ({
       "botao__excluir text-light fw-semibol material-symbols-outlined",
     close: "btn-close btn-close-white",
   };
-
+debugger
   return (
     <button
       className={`${buttonStyleMap[variant]} ${className}`}
